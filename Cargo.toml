@@ -1,6 +1,6 @@
 [package]
 name = "bn-tickers"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Andrey V. Kononov"]
 edition = "2021"
 
